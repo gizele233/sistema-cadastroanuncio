@@ -30,7 +30,7 @@ Os relatórios poderão ser filtrados por intervalo de tempo e cliente.
 - Python Instalado na máquina
 
 ## Imagens do projeto
-<img src="https://github.com/gizele233/sistema-cadastroanuncio/blob/main/imagens_readme/Data.png"></img>
-<img scr="https://github.com/gizele233/sistema-cadastroanuncio/blob/main/imagens_readme/tela01.png"></img>
-<img scr="https://github.com/gizele233/sistema-cadastroanuncio/blob/main/imagens_readme/tela02.png"></img>
-<img src="https://github.com/gizele233/sistema-cadastroanuncio/blob/main/imagens_readme/pdf.png"></img>
+![alt text](https://github.com/gizele233/sistema-cadastroanuncio/blob/main/imagens_readme/Data.png)
+![alt text](https://github.com/gizele233/sistema-cadastroanuncio/blob/main/imagens_readme/tela01.png)
+![alt text](https://github.com/gizele233/sistema-cadastroanuncio/blob/main/imagens_readme/tela02.png)
+![alt text](https://github.com/gizele233/sistema-cadastroanuncio/blob/main/imagens_readme/pdf.png)
