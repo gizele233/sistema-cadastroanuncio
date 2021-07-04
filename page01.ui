@@ -196,7 +196,7 @@
      <string notr="true">background-color: rgb(255, 210, 211);</string>
     </property>
     <property name="text">
-     <string>Gerar relatório:</string>
+     <string>Gerar relatório</string>
     </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit">
